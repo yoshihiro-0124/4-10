@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+ @import "bootstrap";
+ @import 'font-awesome-sprockets';
+ @import 'font-awesome';
+
+ .field{
+  margin-bottom: 10px;
+ }
+
+ .actions{
+  margin-bottom: 10px;
+ }
+
+ .table{
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+ }
+
+ .form-group{
+  margin-bottom: 1rem;
+ }
